@@ -12,3 +12,25 @@
     width: 200px;
     border-radius: 15px;
 }
+
+.bottle h5{
+    margin-top: 10px;
+}
+
+.bottle button{
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    font-size: 18px;
+    transition: all .5s;
+}
+
+.bottle button:hover{
+    background-color: white;
+    color: #000;
+    cursor: pointer;
+}
